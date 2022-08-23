@@ -14,4 +14,4 @@ const container = document.querySelector(".card-container");
 pokemonArray.forEach((poke) => {container.innerHTML += getCard(poke);});
 
 const typeFinder = document.querySelector(".typeFinder");
-typeFinder.addEventListener("change",)
+
